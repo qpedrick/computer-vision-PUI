@@ -1,0 +1,7 @@
+Epoch [1/100], Training Loss: 0.3166, Validation Loss: 0.1193
+Model saved at epoch 1
+Epoch [2/100], Training Loss: 0.1275, Validation Loss: 0.1052
+Model saved at epoch 2
+Epoch [3/100], Training Loss: 0.0960, Validation Loss: 0.1087
+Epoch [3/100], Training Loss: 0.0960, Validation Loss: 0.1019
+Model saved at epoch 3
